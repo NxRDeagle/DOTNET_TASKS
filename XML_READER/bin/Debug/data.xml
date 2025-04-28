@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<People>
+  <Person>
+    <Name>Борис</Name>
+	<Surname>Паровозов</Surname>
+    <Age>20</Age>
+  </Person>
+  <Person>
+    <Name>Саня</Name>
+	<Surname>Крутиков</Surname>
+    <Age>30</Age>
+  </Person>
+   <Person>
+    <Name>Ваня</Name>
+	<Surname>Опелев</Surname>
+    <Age>40</Age>
+  </Person>
+</People>

@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\XML_READER\bin\Debug\XML_READER.exe.config
+C:\Users\Lenovo\source\repos\XML_READER\bin\Debug\XML_READER.exe
+C:\Users\Lenovo\source\repos\XML_READER\bin\Debug\XML_READER.pdb
+C:\Users\Lenovo\source\repos\XML_READER\obj\Debug\XML_READER.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\XML_READER\obj\Debug\XML_READER.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\XML_READER\obj\Debug\XML_READER.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\XML_READER\obj\Debug\XML_READER.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\XML_READER\obj\Debug\XML_READER.exe
+C:\Users\Lenovo\source\repos\XML_READER\obj\Debug\XML_READER.pdb
+C:\Users\Lenovo\source\repos\XML_READER\obj\Debug\XML_READER.Form1.resources

@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\PHILOSOPHERS_THREADS\bin\Debug\PHILOSOPHERS_THREADS.exe.config
+C:\Users\Lenovo\source\repos\PHILOSOPHERS_THREADS\bin\Debug\PHILOSOPHERS_THREADS.exe
+C:\Users\Lenovo\source\repos\PHILOSOPHERS_THREADS\bin\Debug\PHILOSOPHERS_THREADS.pdb
+C:\Users\Lenovo\source\repos\PHILOSOPHERS_THREADS\obj\Debug\PHILOSOPHERS_THREADS.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\PHILOSOPHERS_THREADS\obj\Debug\PHILOSOPHERS_THREADS.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\PHILOSOPHERS_THREADS\obj\Debug\PHILOSOPHERS_THREADS.exe
+C:\Users\Lenovo\source\repos\PHILOSOPHERS_THREADS\obj\Debug\PHILOSOPHERS_THREADS.pdb

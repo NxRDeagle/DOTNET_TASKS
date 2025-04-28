@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <philosophers_count>5</philosophers_count>
+    <debug_mode>false</debug_mode>
+    <simulation_duration_ms>5000</simulation_duration_ms>
+</configuration>
